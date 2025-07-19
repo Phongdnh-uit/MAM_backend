@@ -1,3 +1,5 @@
+> **ℹ️ Note:** Dự án này là phiên bản tách riêng phần backend từ repository gốc của môn Nhập môn Công nghệ Phần mềm (SE114). Mọi người có thể tham khảo repository gốc nếu muốn: https://github.com/Phongdnh-uit/SE114.P22.Project
+
 ![Logo](https://github.com/Phongdnh-uit/SE114.P22.Project/blob/deployment/backend/backend/src/main/resources/static/images/banner.png)
 
 # Măm - Hệ thống bán đồ ăn nhanh
